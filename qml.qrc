@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>gamelogic.js</file>
+        <file>DropTile.qml</file>
+        <file>DragTile.qml</file>
+    </qresource>
+</RCC>
